@@ -1,17 +1,13 @@
-# CV
-
 # Kushtar Tynarbekov
 
-_Frontend Developer with quality assurance background_ <br>
-
-[Email](mailto:ktynarbek04@gmail.com) / [Cell](470-443-8470) / [LinkedIn](https://www.linkedin.com/in/kushtar-tynarbekov/) / [GitHub](https://github.com/Kushtarbek) / [Leetcode](https://leetcode.com/kushtarbek/) / [DEV.to](https://dev.to/kushtarbek)
-
-------
-## Professional Summary 
 _Highly motivated and results-driven Frontend Developer with 2 years of hands-on experience in crafting visually stunning and
 user-centric web applications. Proficient in HTML5, CSS3, and JavaScript, with a strong foundation in React, and Java.
 Committed to creating seamless user experiences and enhancing the overall performance and aesthetics of web applications.
 Looking to leverage my skills and enthusiasm to contribute to innovative projects and drive digital success._
+
+[Email](mailto:ktynarbek04@gmail.com) / [Cell](470-443-8470) / [LinkedIn](https://www.linkedin.com/in/kushtar-tynarbekov/) / [GitHub](https://github.com/Kushtarbek) / [Leetcode](https://leetcode.com/kushtarbek/) / [DEV.to](https://dev.to/kushtarbek)
+
+------
 
 ## 🛠️ Skills
 
