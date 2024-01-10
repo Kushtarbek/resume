@@ -29,7 +29,7 @@ Looking to leverage my skills and enthusiasm to contribute to innovative project
 - Successfully integrated existing systems with Firebase and modified 200+ test cases improving in 25-35% workflow. 
 - Created a scalable and optimized UI using HTML, CSS, and a robust DataGrid system, resulting in 18% load speed improvement and seamless user experience across 90% of tested web browsers. 
 - Collaborated with stakeholders and Designers to successfully transform design mockups into functional features and analyzed to identify development bottlenecks.
--  - **_Technologies used:_** React, TypeScript, Material UI, HTML, CSS.
+  - **_Technologies used:_** React, TypeScript, Material UI, HTML, CSS.
 <br><br>
 
 **Software Engineer** @ [Ticketmaster](https://www.ticketmaster.com/sell) _(May 2019 - July 2020)_ <br>
