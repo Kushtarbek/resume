@@ -14,7 +14,7 @@ Looking to leverage my skills and enthusiasm to contribute to innovative project
 
 ------
 ## 👨🏻‍💻  Engineering Experience
-**Sr Frontend Developer** @ [AHEAD](https://www.ahead.com/.com/) _(Mar 2021 - Sep 2023)_ <br>
+**Sr Frontend Developer** @ [AHEAD](https://www.ahead.com/) _(Mar 2021 - Sep 2023)_ <br>
 - Developed & optimized independent frontend microservices in La-Z-Boy RMS and Ascension Healthcare patient portal resulting in 25% performance improvement per component, enhanced user responsiveness, and faster deployment cycles. 
 - Leveraged JS, React, and Node.js to build on average 20+ responsive and high-performance components per project 30% reduction in page load times through efficient utilization of AWS resources. 
 - Enhanced user experience for 10,000+ Bain & Company employees by implementing advanced search filters and interactive graphics using Material UI and Charts.js in management system. 
