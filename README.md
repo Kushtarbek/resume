@@ -2,6 +2,7 @@
 
 [Email](mailto:kushtar.tynarbek@gmail.com) / [Cell](470-443-8470) / [LinkedIn](https://www.linkedin.com/in/kushtartyn/) / [GitHub](https://github.com/Kushtarbek) / [Leetcode](https://leetcode.com/kushtarbek/) / [DEV.to](https://dev.to/kushtarbek)
 
+##  Self-introduction
 _Passionate Front-End Developer with 4+ years of experience in web development, specializing in data visualization and UI optimization. Proficient in JavaScript, React, and Node.js, automating the processes for efficient user experiences. Skilled in translating business requirements into scalable, high-quality frontend solutions that adhere to accessibility standards.  
 Committed to creating seamless user experiences and enhancing the overall performance and aesthetics of a brand.
 Looking to leverage my skills and enthusiasm to contribute to innovative projects and drive digital success._
